@@ -6,7 +6,7 @@ Este repositorio documenta los libros que estoy leyendo en el marco del desafío
 
 ---
 
-## 📅 Libros leídos hasta la fecha: 26 / 27
+## 📅 Libros leídos hasta la fecha: 28
 
 | N°  | Fecha     | Título                                                           | Autor                    | Enlace                                                                                               |
 |-----|-----------|------------------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------|
